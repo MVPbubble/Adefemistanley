@@ -1,24 +1,24 @@
-vCard - Personal Portfolio
+MVPbubble- Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
+alt = Adefemi Stanley
+Adefemi Stanley
 Web developer
 
 Show Contacts
 
 Email
-richard@example.com
+Laurenstanley570@gmail.com
 
 Phone
-+1 (213) 352-2795
++1 (213) 07048572606
 
 Birthday
-June 23, 1982
+Januray 21, 1999
 
 Location
-Sacramento, California, USA
+Abule Egba, Lagos state, Nigeria
 
 # navbar
 
@@ -32,7 +32,7 @@ Contact
 
 About me
 
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+I'm Creative Director and UI/UX Designer from Lagos, Nigeria, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
 
 My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
 
